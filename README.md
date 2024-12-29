@@ -5,4 +5,4 @@ Plan your month effectively with this monthly planner designed for Kindle Scribe
 
 Organize your tasks, events, and goals effortlessly with a dedicated section for each, alongside a convenient month calendar.
 
-[Download Monthly Planner PDF](https://github.com/jacopom/Monthly-Planner-Kindle-Scribe/blob/main/2024%20at-a-glance.pdf)
+[Download Monthly Planner PDF](https://github.com/jacopom/Monthly-Planner-Kindle-Scribe/blob/main/2025%20Digital%20planner.pdf)
